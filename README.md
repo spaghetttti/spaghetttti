@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on a full-stack Next.js application, focusing on backend services and API integration using Redis for caching and business logic separation with service classes.<be>
-🌱 I’m currently learning NestJS and AWS serverless technologies, with a focus on improving my skills in building scalable backend systems<be>
-💬 Ask me about backend development with Node.js, TypeScript, AWS services, and database optimization. I also enjoy discussing state management in React.<be>
+🔭 I’m currently working on a full-stack Next.js application, focusing on backend services and API integration using Redis for caching and business logic separation with service classes.<br>
+🌱 I’m currently learning NestJS and AWS serverless technologies, with a focus on improving my skills in building scalable backend systems<br>
+💬 Ask me about backend development with Node.js, TypeScript, AWS services, and database optimization. I also enjoy discussing state management in React.<br>
 ⚡ Fun fact: I can speak five languages and love exploring new tech trends while sipping on coffee ☕ or enjoying a good football match ⚽️
 📫 How to reach me: asil9802mum@gmail.com
 
