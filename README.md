@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on a personal project where I'm building an HTTP server "from scratch" using Java's TCP standard library as a starting point.<br>
 ⚡ Fun fact: I can speak five languages and love exploring new tech trends while sipping on coffee ☕ or enjoying a good football match ⚽️<br>
-📫 How to reach me: asil9802mum@gmail.com
+📫 How to reach me: LinkedIn
 
 
 ## 🌐 Socials:
